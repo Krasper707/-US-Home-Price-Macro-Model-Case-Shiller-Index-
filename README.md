@@ -16,8 +16,8 @@ Model the impact of macroeconomic factors on the S&P Case-Shiller US Home Price 
 - Achieved adjusted R² of 0.698 on the OLS model
 
 ## Files
-- `notebooks/01_model_building.ipynb`: Main modeling notebook
-- `results/model_summary.txt`: Key results summary
+- `US_Home_Prices_Assignment (1).ipynb`: Main modeling notebook
+
 
 ## Next Steps
 - Introduce lagged features, rolling windows
