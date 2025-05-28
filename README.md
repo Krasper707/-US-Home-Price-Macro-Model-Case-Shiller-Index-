@@ -1,6 +1,6 @@
 # US Home Price Macro Model (Case-Shiller Index)
 
-This repository contains A US Home Price Macro Model
+This repository contains a data science model built as part of the Home.LLC Quantitative Analytics Interview – Stage 1.
 
 ## Objective
 Model the impact of macroeconomic factors on the S&P Case-Shiller US Home Price Index over the last 20 years using publicly available data.
@@ -23,3 +23,4 @@ Model the impact of macroeconomic factors on the S&P Case-Shiller US Home Price 
 - Introduce lagged features, rolling windows
 - Explore regional modeling
 - Consider policy shocks and ARIMA-based extensions
+
